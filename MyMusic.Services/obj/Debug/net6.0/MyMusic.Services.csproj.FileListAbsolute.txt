@@ -1,0 +1,15 @@
+C:\Users\12816\Downloads\New folder\MyMusic.Services\bin\Debug\net6.0\MyMusic.Services.deps.json
+C:\Users\12816\Downloads\New folder\MyMusic.Services\bin\Debug\net6.0\MyMusic.Services.dll
+C:\Users\12816\Downloads\New folder\MyMusic.Services\bin\Debug\net6.0\MyMusic.Services.pdb
+C:\Users\12816\Downloads\New folder\MyMusic.Services\bin\Debug\net6.0\MyMusic.Core.dll
+C:\Users\12816\Downloads\New folder\MyMusic.Services\bin\Debug\net6.0\MyMusic.Core.pdb
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.csproj.AssemblyReference.cache
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.AssemblyInfoInputs.cache
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.AssemblyInfo.cs
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.csproj.CoreCompileInputs.cache
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\MyMusic..0A413481.Up2Date
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.dll
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\refint\MyMusic.Services.dll
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\MyMusic.Services.pdb
+C:\Users\12816\Downloads\New folder\MyMusic.Services\obj\Debug\net6.0\ref\MyMusic.Services.dll

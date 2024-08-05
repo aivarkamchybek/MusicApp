@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12816\\Downloads\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\controllers\\artistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9913FA0-4874-4F71-8697-CA2699FC2235}|MyMusic.Services\\MyMusic.Services.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9913FA0-4874-4F71-8697-CA2699FC2235}|MyMusic.Services\\MyMusic.Services.csproj|solutionrelative:mymusic.services\\artistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|solutionrelative:mymusic.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.data\\repositories\\musicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|solutionrelative:mymusic.data\\repositories\\musicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|solutionrelative:mymusic.data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.data\\repositories\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|solutionrelative:mymusic.data\\repositories\\artistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.data\\configurations\\musicconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|solutionrelative:mymusic.data\\configurations\\musicconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.data\\configurations\\artistconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|solutionrelative:mymusic.data\\configurations\\artistconfiguration .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|solutionrelative:mymusic.core\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.core\\repositories\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|solutionrelative:mymusic.core\\repositories\\imusicrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.core\\repositories\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|solutionrelative:mymusic.core\\repositories\\iartistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.core\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|solutionrelative:mymusic.core\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.core\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|solutionrelative:mymusic.core\\models\\music.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.core\\models\\auth\\role .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|solutionrelative:mymusic.core\\models\\auth\\role .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\extensions\\authextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\extensions\\authextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.data\\mymusicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FC7F51-B672-4A93-A982-2732CDA291A2}|MyMusic.Data\\MyMusic.Data.csproj|solutionrelative:mymusic.data\\mymusicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\controllers\\musiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAF52FC-2125-4EE3-A6E8-900A10B92ADA}|MyMusic.Core\\MyMusic.Core.csproj|solutionrelative:mymusic.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\mymusic.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\mymusic.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|c:\\users\\12816\\downloads\\new folder\\mymusic.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A093421-F94A-4A0D-BDA7-FBF875D0CC74}|MyMusic.Api\\MyMusic.Api.csproj|solutionrelative:mymusic.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyMusic.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyMusic.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T01:01:25.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "MyMusic.Core\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "MyMusic.Core\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:18:26.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMusicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Repositories\\IMusicRepository.cs",
+              "RelativeDocumentMoniker": "MyMusic.Core\\Repositories\\IMusicRepository.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Repositories\\IMusicRepository.cs",
+              "RelativeToolTip": "MyMusic.Core\\Repositories\\IMusicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:17:56.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusicRepository.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Repositories\\MusicRepository.cs",
+              "RelativeDocumentMoniker": "MyMusic.Data\\Repositories\\MusicRepository.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Repositories\\MusicRepository.cs",
+              "RelativeToolTip": "MyMusic.Data\\Repositories\\MusicRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:29:08.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyMusic.Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\UnitOfWork.cs",
+              "RelativeToolTip": "MyMusic.Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:22:32.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArtistsController.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Controllers\\ArtistsController.cs",
+              "RelativeDocumentMoniker": "MyMusic.Api\\Controllers\\ArtistsController.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Controllers\\ArtistsController.cs",
+              "RelativeToolTip": "MyMusic.Api\\Controllers\\ArtistsController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAcwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:11:16.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Role .cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Models\\Auth\\Role .cs",
+              "RelativeDocumentMoniker": "MyMusic.Core\\Models\\Auth\\Role .cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Models\\Auth\\Role .cs",
+              "RelativeToolTip": "MyMusic.Core\\Models\\Auth\\Role .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:59:36.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArtistService.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Services\\ArtistService.cs",
+              "RelativeDocumentMoniker": "MyMusic.Services\\ArtistService.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Services\\ArtistService.cs",
+              "RelativeToolTip": "MyMusic.Services\\ArtistService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:23:11.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IArtistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Repositories\\IArtistRepository.cs",
+              "RelativeDocumentMoniker": "MyMusic.Core\\Repositories\\IArtistRepository.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Repositories\\IArtistRepository.cs",
+              "RelativeToolTip": "MyMusic.Core\\Repositories\\IArtistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:17:51.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "MyMusic.Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "MyMusic.Data\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:29:07.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ArtistRepository.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Repositories\\ArtistRepository.cs",
+              "RelativeDocumentMoniker": "MyMusic.Data\\Repositories\\ArtistRepository.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Repositories\\ArtistRepository.cs",
+              "RelativeToolTip": "MyMusic.Data\\Repositories\\ArtistRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:28:43.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Music.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Models\\Music.cs",
+              "RelativeDocumentMoniker": "MyMusic.Core\\Models\\Music.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Models\\Music.cs",
+              "RelativeToolTip": "MyMusic.Core\\Models\\Music.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:11:18.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "MyMusic.Core\\Models\\Artist.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\Models\\Artist.cs",
+              "RelativeToolTip": "MyMusic.Core\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:11:03.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ArtistConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Configurations\\ArtistConfiguration .cs",
+              "RelativeDocumentMoniker": "MyMusic.Data\\Configurations\\ArtistConfiguration .cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Configurations\\ArtistConfiguration .cs",
+              "RelativeToolTip": "MyMusic.Data\\Configurations\\ArtistConfiguration .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:28:39.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MusicConfiguration .cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Configurations\\MusicConfiguration .cs",
+              "RelativeDocumentMoniker": "MyMusic.Data\\Configurations\\MusicConfiguration .cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\Configurations\\MusicConfiguration .cs",
+              "RelativeToolTip": "MyMusic.Data\\Configurations\\MusicConfiguration .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T04:28:41.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Program.cs",
+              "RelativeDocumentMoniker": "MyMusic.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Program.cs",
+              "RelativeToolTip": "MyMusic.Api\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:55:44.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MusicController.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Controllers\\MusicController.cs",
+              "RelativeDocumentMoniker": "MyMusic.Api\\Controllers\\MusicController.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Controllers\\MusicController.cs",
+              "RelativeToolTip": "MyMusic.Api\\Controllers\\MusicController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwCgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T05:55:13.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Extensions\\AuthExtensions.cs",
+              "RelativeDocumentMoniker": "MyMusic.Api\\Extensions\\AuthExtensions.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Extensions\\AuthExtensions.cs",
+              "RelativeToolTip": "MyMusic.Api\\Extensions\\AuthExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T00:48:25.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "MyMusic.Core\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Core\\IUnitOfWork.cs",
+              "RelativeToolTip": "MyMusic.Core\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:18:41.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MyMusicDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\MyMusicDbContext.cs",
+              "RelativeDocumentMoniker": "MyMusic.Data\\MyMusicDbContext.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Data\\MyMusicDbContext.cs",
+              "RelativeToolTip": "MyMusic.Data\\MyMusicDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T08:23:08.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyMusic.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyMusic.Api\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T04:00:51.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MyMusic.Api",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\MyMusic.Api.csproj",
+              "RelativeDocumentMoniker": "MyMusic.Api\\MyMusic.Api.csproj",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\MyMusic.Api.csproj",
+              "RelativeToolTip": "MyMusic.Api\\MyMusic.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-04T04:00:49.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MyMusic.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\appsettings.json",
+              "RelativeToolTip": "MyMusic.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-04T04:00:41.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyMusic.Api\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\WeatherForecast.cs",
+              "RelativeToolTip": "MyMusic.Api\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T03:56:56.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MyMusic.Api\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\12816\\Downloads\\New folder\\MyMusic.Api\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "MyMusic.Api\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:39:40.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
